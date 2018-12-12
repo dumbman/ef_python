@@ -5,6 +5,7 @@ python:
   - "pypy3.5"
 # command to install dependencies
 install:
+  - cd dumbman/ef_python
   - pip3 install -r requirements.txt
   - pip install .
 # command to run tests
