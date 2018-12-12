@@ -8,6 +8,8 @@ python:
   - "pypy3.5"
 # command to install dependencies
 install:
+  - ls
+  - pwd
   - pip3 install -r ./requirements.txt
 # command to run tests
 #script: pytest
