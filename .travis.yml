@@ -13,5 +13,4 @@ install:
   - pip3 install -r ./requirements.txt
 # command to run tests
 script: 
-  - cd ./examples/single_particle_in_magnetic_field/
-  - sh run_example.sh
+  - pytest
