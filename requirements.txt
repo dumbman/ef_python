@@ -1,6 +1,14 @@
+decorator
+numpy
 h5py
-matplotlib
-sympy
-pytest
+rowan
+simpleeval
 scipy
+inject
+sympy
+matplotlib
 jupyter
+pandas
+sympy
+nbformat
+pyamg

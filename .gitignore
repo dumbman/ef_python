@@ -4,3 +4,15 @@ __pycache__
 \#*\#
 *.h5
 *.png
+.idea/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.eggs/
+**/*.egg-info/
+build/
+dist/
+.tox/
+.logamgx
+*.prof
+*.lprof
